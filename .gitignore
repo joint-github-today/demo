@@ -1,0 +1,5 @@
+# 忽略python生成文件
+*.pyc
+
+# 忽略results文件夹
+results/
