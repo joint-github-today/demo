@@ -15,4 +15,4 @@ colors = theta
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='polar')
 c = ax.scatter(theta, r, c=colors, s=area, cmap='hsv', alpha=0.75)
-plt.savefig('results/res-1.png')
+plt.savefig('results/res-1--.png')
