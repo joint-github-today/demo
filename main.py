@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
+import cv2
 
 # Fixing random state for reproducibility
 np.random.seed(19680801)
